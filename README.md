@@ -4,3 +4,7 @@
 
 - Previously involved in designing languages like [OpenMP](https://www.openmp.org) and [OpenACC](https://www.openacc.org/). 
 
+![](https://raw.githubusercontent.com/grypp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/grypp/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/grypp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/grypp/github-stats/master/generated/languages.svg#gh-light-mode-only)
