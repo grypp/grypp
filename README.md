@@ -1,4 +1,4 @@
-I am currently working on:
+# I am currently working on:
 
 ### TileIR (coming soon)
 - A next-generation MLIR-based compiler infrastructure.
@@ -8,7 +8,7 @@ I am currently working on:
 - A Python-based DSL built on **MLIR** 
 - Designed for writing high-performance GPU kernels with close-to-metal performance and integration with CUTLASS.
 
-### Past Contributions
+# Past Contributions
 
 - Contributed to major compiler projects including:
   - [Clang](https://clang.llvm.org) and [Flang](https://flang.llvm.org), [NVIDIA HPC Compilers](https://developer.nvidia.com/hpc-compilers) (formerly PGI), [MLIR](https://github.com/llvm/llvm-project), [IREE](https://github.com/iree-org/iree)
