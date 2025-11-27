@@ -4,9 +4,10 @@
 - A next-generation MLIR-based compiler infrastructure.
 - Aims to provide a portable and composable intermediate representation for GPU programming in ML and HPC workloads.
 
-### [Cutlass Python DSL](https://github.com/NVIDIA/cutlass)
+### [Cutlass Python DSL (CuTeDSL) ](https://github.com/NVIDIA/cutlass)
 - A Python-based DSL built on **MLIR** 
 - Designed for writing high-performance GPU kernels with close-to-metal performance and integration with CUTLASS.
+- [Watch my LLVM25 Talk](https://www.youtube.com/watch?v=5NXd6MbKYNQ)
 
 # Past Contributions
 
