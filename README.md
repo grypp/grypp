@@ -1,6 +1,6 @@
 # I am currently working on:
 
-### TileIR (coming soon)
+### TileIR compiler (coming soon)
 - A next-generation MLIR-based compiler infrastructure.
 - Aims to provide a portable and composable intermediate representation for GPU programming in ML and HPC workloads.
 
