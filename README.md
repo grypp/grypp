@@ -1,13 +1,13 @@
 # I am currently working on:
 
-### TileIR compiler (coming soon)
+### [TileIR compiler](https://docs.nvidia.com/cuda/tile-ir/latest/index.html)
 - A next-generation MLIR-based compiler infrastructure.
 - Aims to provide a portable and composable intermediate representation for GPU programming in ML and HPC workloads.
 
-### [Python DSL Infrastructure for Cutlass (CuTeDSL)](https://github.com/NVIDIA/cutlass)
+### [CuTeDSL, Cutlass Python DSL](https://docs.nvidia.com/cutlass/media/docs/pythonDSL/cute_dsl.html)
 - A Python-based DSL built on **MLIR** 
 - Designed for writing high-performance GPU kernels with close-to-metal performance and integration with CUTLASS.
-- [Watch my LLVM25 Talk](https://www.youtube.com/watch?v=5NXd6MbKYNQ)
+- [Watch my LLVM25 Talk: Cutlass Python DSL](https://www.youtube.com/watch?v=5NXd6MbKYNQ)
 
 # Past Contributions
 
